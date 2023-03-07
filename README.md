@@ -12,7 +12,7 @@
 
 **Frond-End:** React, Material UI
 
-**Back-End:** C#, .NET, Firebase, Node.js
+**Back-End:**  Firebase, Node.js
 
 
 ## Features
