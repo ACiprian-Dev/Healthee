@@ -21,7 +21,7 @@
 - [x]  Grab all employees from the database and visually represent whether or not they have their documents up to date
 - [x]  View medical document pdf in new tab
 - [x]  Delete medical documents from the database (locally only)
-- [ ]  Allow uploading medical documents to the database from the Front End
+- [x]  Allow uploading medical documents to the database from the Front End
 - [ ]  Create a separate account type for employees to allow them to see their medical documents
 - [ ]  Allow grabbing medical documents sent to an email adress automatically(Long Term)
 - [ ]  Allow sending email notification to employees in need of new medical documents
@@ -29,7 +29,7 @@
 
 ## To-Do
 
-- [ ]  Port existing database to Firebase to allow the app to be used without the need of a local database
+- [x]  Port existing database to Firebase to allow the app to be used without the need of a local database
 - [ ]  Implement clear TypeScript Interfaces and models for the data processed in the web application
 ## Deployment
 
